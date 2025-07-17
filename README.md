@@ -1,10 +1,6 @@
 # 📦 Digital Asset Management using Blockchain
 
-This project is a decentralized marketplace built on the **Ethereum blockchain** using **Solidity smart contracts**, the **Truffle framework**, and a **React frontend**. It allows users to **buy and sell digital assets** securely on the blockchain.
-
-## 🌐 Live Demo
-
-**Coming soon...** (Add link here if hosted on IPFS, Fleek, or localhost demo video)
+This project is a decentralized marketplace built on the **Ethereum blockchain** using **Solidity smart contracts**, the **Truffle framework**, and a **React frontend**. It allows users to **buy and sell digital assets** securely on the blockchain
 
 ---
 
@@ -83,20 +79,7 @@ npm start
 - 🔒 Fully decentralized using Ethereum smart contracts  
 - 🔗 MetaMask wallet integration
 
----
 
-## 📂 Project Structure
-
-```
-contracts/
-│  ├── Marketplace.sol        # Main smart contract
-│  └── Migrations.sol         # For managing deployments
-migrations/
-│  ├── 1_initial_migration.js
-│  └── 2_deploy_contracts.js
-truffle-config.js             # Truffle settings
-package.json                  # Node dependencies and scripts
-```
 
 ---
 
@@ -108,18 +91,13 @@ truffle test
 
 ---
 
-## 📚 Data Source
+## Output
 
-This app does not use an external dataset. All data is stored on the Ethereum blockchain (via Ganache test network).
+![PHOTO-2023-10-30-17-30-25 2](https://github.com/user-attachments/assets/bba490bb-ccd1-4d49-85ea-ce52d630641a)
+![PHOTO-2023-10-30-17-30-25 3](https://github.com/user-attachments/assets/0d0d31ad-d473-4e01-8b63-1ac3c001e326)
 
----
 
-## 👨‍💻 Author
 
-Developed by [Bharat Lohar](https://github.com/THEBHARAT08)
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License.
